@@ -10,9 +10,9 @@
 | Olive | 11  | Tortoiseshell |
 | Masa  | 2   | Orange tabby  |
 
-_ Bam! Bold text _
+_I am italicized text_
 
-__ I am italicized text __
+__Bam! Bold text__
 
 # Big heading
 
